@@ -34,4 +34,4 @@ jobs:
         uses: nuxt-hub/action@v1
         id: deploy
         with:
-          project-key: jbpt-hub-mp51
+          project-key: jbpt-hub-q1cq
