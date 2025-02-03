@@ -10,9 +10,11 @@
               <a href="https://manage.kmail-lists.com/subscriptions/subscribe?a=VNdp7P&g=YmfA92" target="_blank" rel="noopener noreferrer">
   <p class="text-xl uppercase" v-for="n in 1" :key="n">Running Guide</p>
 </a>
+<br>
 <a href="https://manage.kmail-lists.com/subscriptions/subscribe?a=VNdp7P&g=TSMfnU" target="_blank" rel="noopener noreferrer">
   <p class="text-xl uppercase" v-for="n in 1" :key="n">Hybrid Guide</p>
 </a>
+<br>
 <a href="https://manage.kmail-lists.com/subscriptions/subscribe?a=VNdp7P&g=UQs5nz" target="_blank" rel="noopener noreferrer">
   <p class="text-xl uppercase" v-for="n in 1" :key="n">Nutrition Guide</p>
 </a>
@@ -23,7 +25,7 @@
             <h2 class="text-2xl font-black uppercase">Contact Box</h2>
             <div class="space-y-5 mt-5">
               <p class="text-xl font-black">Jacob Baisley</p>
-              <p class="text-xl font-black">jb@jb-pt.co.uk</p>
+              <p class="text-xl font-black"><a href="mailto:jb@jb-pt.co.uk">jb@jb-pt.co.uk</a></p>
             </div>
             <div class="mt-10">
               <h2 class="text-xl font-black uppercase">Social Media</h2>
