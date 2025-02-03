@@ -15,25 +15,25 @@
           <div class="">
             <h2 class="text-2xl font-black uppercase">Contact Box</h2>
             <div class="space-y-5 mt-5">
-              <p class="text-xl font-black">Name</p>
-              <p class="text-xl font-black">Email</p>
+              <p class="text-xl font-black">Jacob Baisley</p>
+              <p class="text-xl font-black">jb@jb-pt.co.uk</p>
             </div>
             <div class="mt-10">
               <h2 class="text-xl font-black uppercase">Social Media</h2>
               <div class="grid grid-cols-1 sm:grid-cols-2 gap-5 mt-5">
-                <NuxtLink to="/" class="text-xl flex items-center gap-2">
+                <NuxtLink to="https://www.instagram.com/j_baisley_" class="text-xl flex items-center gap-2">
                   <IconsInstagram class="w-6 h-6" />
                   Instagram
                 </NuxtLink>
-                <NuxtLink to="/" class="text-xl flex items-center gap-2">
+                <NuxtLink to="https://www.facebook.com/JSilvermane/" class="text-xl flex items-center gap-2">
                   <IconsFb class="w-6 h-6" />
                   Facebook
                 </NuxtLink>
-                <NuxtLink to="/" class="text-xl flex items-center gap-2">
+                <NuxtLink to="https://www.tiktok.com/discover/fantasyfitness" class="text-xl flex items-center gap-2">
                   <IconsTiktok class="w-6 h-6" />
                   Tiktok
                 </NuxtLink>
-                <NuxtLink to="/" class="text-xl flex items-center gap-2">
+                <NuxtLink to="https://discord.gg/GnRHe7Fy" class="text-xl flex items-center gap-2">
                   <IconsDiscord class="w-6 h-6" />
                   Discord
                 </NuxtLink>

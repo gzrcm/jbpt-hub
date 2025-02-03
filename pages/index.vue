@@ -1,7 +1,7 @@
 <template>
   <div class="h-dvh relative overflow-hidden">
     <!-- Video Backgrounds -->
-    <video class="absolute top-0 left-0 w-full h-full object-cover" src="/videos/video1.m4v" autoplay muted loop
+    <video class="absolute top-0 left-0 w-full h-full object-cover lg:w-1/2" src="/videos/video1.m4v" autoplay muted loop
       playsinline></video>
     <video class="absolute top-0 left-0 w-full h-full object-cover lg:ml-[50%] lg:w-[50%]" src="/videos/video2.m4v"
       autoplay muted loop playsinline></video>
