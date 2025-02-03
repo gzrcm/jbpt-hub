@@ -4,7 +4,7 @@
     <LayoutsJbptHeader @handleOpen="handleOpen" />
     <slot />
     <div class="fixed bottom-[5%]  left-1/2 -translate-x-1/2" v-if="isShowBookButton">
-      <SharedButton type="secondary" to="/">Book Your Free chat now</SharedButton>
+      <SharedButton type="secondary" to="https://api.whatsapp.com/send/?phone=%2B447422516848&text&type=phone_number&app_absent=0&wame_ctl=1">Book Your Free chat now</SharedButton>
     </div>
     <!-- Chat Button -->
     <ul id="#menu" v-if="!isShowChatButton">
