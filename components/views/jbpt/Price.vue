@@ -23,10 +23,12 @@
               <p class="text-xl font-bold mt-5">£150</p>
               <p class="text-xl mt-5 font-bold">No contract</p>
               <!-- Buy Button -->
-              <button
-                class="mt-5 bg-customRed text-white py-2 px-5 rounded-lg font-bold uppercase hover:bg-red-700 transition">
-                Buy Now
-              </button>
+              <a href="https://monzo.com/pay/r/jbpt_DVIRhUu1v6jKd6" target="_blank" rel="noopener noreferrer">
+  <button class="mt-5 bg-customRed text-white py-2 px-5 rounded-lg font-bold uppercase hover:bg-red-700 transition">
+    Buy Now
+  </button>
+</a>
+
             </div>
           </div>
         </div>

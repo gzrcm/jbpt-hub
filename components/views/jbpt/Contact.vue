@@ -6,9 +6,16 @@
           <div class="">
             <h2 class="text-2xl font-black uppercase">Want freebies?</h2>
             <p class="text-lg mt-5">Nutrition advice, running guides and off the shelve programs?</p>
-            <button class="text-lg mt-5">Click Here</button>
             <div class="mt-5 space-y-10">
-              <p class="text-xl uppercase" v-for="n in 3" :key="n">Urls</p>
+              <a href="https://manage.kmail-lists.com/subscriptions/subscribe?a=VNdp7P&g=YmfA92" target="_blank" rel="noopener noreferrer">
+  <p class="text-xl uppercase" v-for="n in 1" :key="n">Running Guide</p>
+</a>
+<a href="https://manage.kmail-lists.com/subscriptions/subscribe?a=VNdp7P&g=TSMfnU" target="_blank" rel="noopener noreferrer">
+  <p class="text-xl uppercase" v-for="n in 1" :key="n">Hybrid Guide</p>
+</a>
+<a href="https://manage.kmail-lists.com/subscriptions/subscribe?a=VNdp7P&g=UQs5nz" target="_blank" rel="noopener noreferrer">
+  <p class="text-xl uppercase" v-for="n in 1" :key="n">Nutrition Guide</p>
+</a>
             </div>
 
           </div>
