@@ -1,6 +1,6 @@
 export const jbptMenus = [
-  { name: "Home", link: "#home" },
-  { name: "ABOUT", link: "#aboutus" },
+  { name: "ABOUT ME", link: "#home" },
+  { name: "CLIENTS", link: "#aboutus" },
   { name: "PRICE LIST", link: "#price" },
   { name: "PROGRAM", link: "#program" },
   { name: "CONTACT", link: "#contact" },

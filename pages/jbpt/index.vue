@@ -44,9 +44,3 @@ const mobActive = () => {
   }
 };
 </script>
-
-<style scoped>
-.section {
-  padding-top: 70px;
-}
-</style>
